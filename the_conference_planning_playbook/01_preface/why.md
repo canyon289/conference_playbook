@@ -1,4 +1,4 @@
-# Purpose of the book
+# Why this book
 
 When starting a project there's plenty of open source tools, videos, and blog posts showing the ins
 and outs of various aspects. Whether how to build an
@@ -14,7 +14,7 @@ about sharing the information about how to plan a conference around that thing.
 
 This is my experience. I'm part of numerous open communities that run conferences, and while, in
 my opinion, we do a great job running conferences to share ideas around various topics like code,
-infosec, cooking, lockpicking, and Bayesian Statistics, but ironically not how to plan the
+infosec, cooking, lockpicking, and Bayesian Statistics, but ironically not how to put on the
 conference itself.
 
 I fully believe that any community that wants to run a conference to benefit their community
@@ -26,14 +26,5 @@ many of us as being asked to socially distance, and while this is beneficial for
 is hard mentally. In reading this book I hope folks that are looking to bring people together
 are both inspired to do so, and also find a playbook on how to make it happen, for the benefit
 of all involved.
-
-## Please pardon the dust
-I'm writing this book in an "Open Source Software" fashion, where I write a prototype quickly
-to get the ideas out there, and build and improve on the core sections over time, particularly
-with community input. Given the COVID pandemic I particularly want to empower people as quickly
-as possible.
-
-As a reader expect this book to be in an *alpha* state. For now there'll be rough edges and typos.
-As the book moves into the traditional beta and 
 
 

@@ -1,4 +1,4 @@
-# Why write this book
+# Who Am I
 My name is Ravin Kumar and I'm a big proponent of the free exchange of ideas, the ideals of
 [Open Community Approaches](https://en.wikiversity.org/wiki/Open_community_approach), and 
 most generally a fan of unrestricted learning.
@@ -44,4 +44,8 @@ and help to grow in the ways that were closed off otherwise.
 In terms of conferences specifically at time of writing I've helped plan over 10 conferences
 in these various communities. These include data conferences such as DataConLA, PyData, and PyMCon,
 or infosec conferences like Sparklecon. It's these experiences that I'll be using as the basis 
-for this book
+for this book. 
+
+I *am not*  a professional event planner, I'm really just a guy who others took a chance on and
+I'm hoping to pass it alone. My hope from all this is one person is inspired to create an event that
+then goes on to inspire someone else, just has happened for me.

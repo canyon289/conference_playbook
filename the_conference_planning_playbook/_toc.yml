@@ -4,13 +4,13 @@
 
 - part: Preface
   chapters:
-  - file: preface/why
-  - file: preface/bookstructure
-  - file: preface/author
+  - file: 01_preface/why
+  - file: 01_preface/bookstructure
+  - file: 01_preface/author
 
 - part: The Basics
   chapters:
-    - file: basics/whatis
+    - file: 02_basics/whatis
 
 - part: The stuff that came with the template
   chapters:
