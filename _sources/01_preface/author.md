@@ -1,4 +1,4 @@
-# Who am I
+# Why write this book
 My name is Ravin Kumar and I'm a big proponent of the free exchange of ideas, the ideals of
 [Open Community Approaches](https://en.wikiversity.org/wiki/Open_community_approach), and 
 most generally a fan of unrestricted learning.
@@ -11,10 +11,11 @@ rein to learn in any direction I pleased.
 
 This was more than just shallow fun, it changed my fundamental life experience. From learning
 English so I could make friends (English is my second language), or coming to understand 
-what how 
+what how. Importantly the librarians themselves were a great help, if you asked them any question
+of your choosing they would do their best to support. This combination of knowledge access and 
+supportive people was quite a magical combination.
 
-
-Because of this people assumed I'd love grade school, but I did not. At school you get little choice,
+Because of this people assumed I'd love school, but I did not. At school you get little choice,
 you're taught what's prescribed for the duration and depth its prescribed. Your interest in the 
 matter was irrelevant. Importantly the teachings were not free, in the sense that talking to your
 peers and coming with new approaches was either unsupported or often discouraged. The content 
@@ -35,4 +36,12 @@ to achieve the role you've been given but usually not much more. So when I was i
 mechanical engineer I was given nearly no training On Data, and at SpaceX I was denied training
 on data methods my manager's didn't see it as relevant to my role.
 
+It was through open communities that I've been most able to develop myself and meet the kind
+encouraging people that have helped. Through places like the 23b and the greater Southern
+California hacker community, or the PyMC3 and the open source data community, I get the latitude
+and help to grow in the ways that were closed off otherwise.
 
+In terms of conferences specifically at time of writing I've helped plan over 10 conferences
+in these various communities. These include data conferences such as DataConLA, PyData, and PyMCon,
+or infosec conferences like Sparklecon. It's these experiences that I'll be using as the basis 
+for this book

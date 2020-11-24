@@ -1,4 +1,4 @@
-# Why this book
+# Purpose of the book
 
 When starting a project there's plenty of open source tools, videos, and blog posts showing the ins
 and outs of various aspects. Whether how to build an
