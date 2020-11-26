@@ -13,6 +13,13 @@ At its most abstract level this book is a collection of ideas you can take to un
 conference planning process. At its most concrete level this book will be a template where
 you can "plug in" your values and get going
 
+## Case studies
+A great way to learn is from the work of others. This book will utilize many case studies
+and examples from others in various communities. In particular when we get to the nitty gritty
+of planning a conference many of these examples will from [PyMCon 2020](https://pymc-devs.github.io/pymcon/)
+a conference I just recently led, and who's internal ongoing we're well documented.
+
+
 ## Who this book for
 This book is for people in that wish to put on a conference for their
 community but are unsure where to start. If using the book as a template it will be most applicable
