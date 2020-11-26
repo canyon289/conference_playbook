@@ -1,49 +1,3 @@
-# Definitions
-
-Merriam Webster defines a conference as "a meeting of two or more persons for discussing matters of
-common concern". It's hard to argue with this definition but it is pretty vague, getting
-coffee with a friend, a work meeting, a gym class, or PyCon all meet this definition.
-
-So instead let's start with
-a different definition [Open Community](https://en.wikiversity.org/wiki/Open_community_approach).
-Copying from the link *The term “open” for an open community refers to the opportunity for
-anyone to join and contribute to the collaborative effort.* Examples of these could include
-Open Source Software development, local cooking clubs, online
-gaming communities. Copying again from the Wikipedia page, 
-"An Open Community Approach never charges money for a service, a product or educational material.
-Implementation are driven by donation, donations of labor force to accomplish Open Community Goals."
-In my definition these are communities that exist more for the benefit of the members as a whole,
-rather than for specific individual in the community, and tend to encourage people to join
-under the hopes of advancing a non monetary effort. People join generally to trade their
-time and effort for an idea or goodwill of others.
-
-Contrast this a closed community approach, for example an employee at company which not
-anyone can just join, and the goals largely are to increase monetary wealth for a subset of its
-members.
-
-Why does this matter? The open vs closed approach substantially changes
-the entire culture of the community. Consider software development at companies versus
-in community open source projects.
-
-Companies maintain structures like Kanban boards and standups for visibility and entire organization
-structures with Technical Project Managers, monetary reward structures that incentivize development and
-priorities come from people with fancy titles like manager, vice president and the like. 
-People join primarily to trade their effort for money.
-
-Whereas in Open Source typically a bug board or issue tickets create visibility and the motivation
-comes from the individuals. Even though the end product is code, the process in which it's generated
-looks vastly different. And importantly the ways the humans in the process structure themselves
-and interact is different as well.
-
-At at high level companies and open source use the same technologies, tools, and acronyms. You'll
-find python, Continuous integration, testing, milling machines, lathes, and source code decompilers
-in both. But the way the humans organize and the motivation lead to different expectations,
-schedules, and motivations.
-
-So to reiterate this book will focus on planning conferences for open communities.
-Many of the principles will be the same just as they are with software development but when planning
-a conference for a community the intrinsic motivation of folks is relevant at each step. 
-
 # An Overview of Open Community Gatherings
 Now that we've scoped down what type of community we're focusing on,
 we're still left with a vague definition of conferences,
@@ -80,15 +34,67 @@ Conferences, as we'll define them, are the once a year event that communities ho
 multiple speakers, multiple event types such as talks, tutorials, etc, and between one and multiple
 thousands of people show up. Conferences are meant to be the one event where all the "core"
 community members show up, but due to their size most of the folks that show up are not the regulars.
-Unlike other event types conferences typically cost money, both because the scale of the event
-means there's real costs, but also because these tend to serve as fundraising events for the 
-communities activity over the year as well. Conferences have so many moving pieces 
-that it takes multiple people concerted effort over multiple months to get everything together.
+Unlike other event types conferences typically money is exchanged. From the event planners side 
+the scale of the event means there's expenses From the attendees side there usually is a ticket
+price, meant to defray the afromentioned cost but also because these tend to serve as fundraising
+events for the communities activity over the year as well. In regards to planning team needs 
+conferences have so many moving pieces that it takes multiple people concerted effort over
+multiple months to get everything together.
 
-### Benefits of a Conference
+### Pros and Cons of a Conference
+So why hold a conference versus a meetup or another get together? Conferences typically
 
+* Bring the most people together at one time
+* Folks tend to dedicate a day or more to the gather rather than just a single evening
+* The activities span the range from "lets teach other hard things" to "lets hang out" for a richer
+shared experience
+* The revenue from ticket sales helps fund the community
+* It's one of the most effective ways per person to get new folks and expand the community
+* It has a big morale boosting effect on the community
+* It's a platform on which to reinforce a vision and direction
+* Tends to be the most visible events and distinctive events online
+* It just feels "special"
+
+But like anything else there's downsides. In no particular order
+* Conferences take more time both in people time and calendar time to plan
+* They can be a financial risk for the event planners
+* There's a lot of ways things can "go wrong"
+
+Frankly though I feel the pros far outweigh the cons and all the downsides can be mitigated with
+foresight and good planning. And hey, this is what this book is for, to help you maximize
+the chances of running a great conference for whatever you and others think is awesome.
 
 ## Case Study: PyData SoCal Meetup versus PyDataLA
+As promised we're by example from others in the community. Being able to identify
+conferences "on sight" and discern them from other community gatherings. This  will help in your
+planning process as you'll be able to see what others have done and get an idea for you can do.
+Especially for you first conference a good move is to emulate what others have done
+that is similar on your space, because you know that what is in demand, and is feasible. In
+particular it'll help to be able to determine which events specifically are conferences
+and understand why they're conferences.
+
 Let's compare [PyData Socal Meetup](https://www.meetup.com/PyData-SoCal/events/272879575/)
-versus [PyData Los Angeles Meetup]([PyData Socal Meetup](https://www.meetup.com/PyData-SoCal/events/272879575/))
+versus [PyData Los Angeles Meetup](https://pydata.org/la2019/)
+to tease apart some of the differences, and share our first examples of open community meetings
+and conferences. 
+
+If we start with the PyData Socal meetup, the most immediate thing we can see is that it was
+a relatively short event, only 2 hours total. The event also only featured one speaker talking about
+a one topic. The attendee count is around 71, enough people to fit into auditorium, or a free 
+videoconferencing software like Zoom or Google meets. Lastly in terms of information on the page
+this really is about it, a single page conveys really everything we need to know. If 
+we click into the [events page](https://www.meetup.com/PyData-SoCal/events/past/) we see
+these style of events recur every multiple times a year. Lastly the registration is
+free, there isn't pricing mentioned anywhere.
+
+Contrast the PyData LA page. There's multiple keynotes listed on the first page alone, clicking
+into the schedule there's many more and the event spans the entire day. There's also
+multiple styles of events, from keynotes, to tracks, to sprints, to scheduled activities like
+social hours. For this particular conference the ticket pricing page has been removed, so you'll
+just have to take it from me that at one point it existed
+
+So now that we've done one together let's use another example from the Infosec space. Here
+are two sets of events organized by Null Space Labs, a hackerspace in Southern California.
+Compare the [events here](https://www.meetup.com/nullspacelabs/) with [this one](https://www.layerone.org/).
+How do they comare? What's similar, what are the differences? Which one is a conference and which is a meetup?
 
