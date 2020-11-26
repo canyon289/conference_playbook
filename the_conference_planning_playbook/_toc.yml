@@ -10,7 +10,8 @@
 
 - part: The Basics
   chapters:
-    - file: 02_basics/whatis
+    - file: 02_basics/definitions
+    - file: 02_basics/open_community_gatherings
 
 - part: The stuff that came with the template
   chapters:
