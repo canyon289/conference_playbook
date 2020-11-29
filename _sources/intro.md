@@ -15,8 +15,8 @@ Everyone should know that they can plan a conference of their own, big or
 small. This book will an example and a guide of how you can run a conference for your community.
 
 ## Please pardon the dust
-I'm writing this book in an "Open Source Software" fashion, where I write a prototype quickly
-to get the ideas out there, and build and improve on the core sections over time, particularly
+This book with be developed in an "Open Source Software" fashion, where chapters are shared as they're
+written. This is get the ideas out there, and improve on the over time, particularly
 with community input. Given the COVID pandemic I particularly want to empower people as quickly
 as possible.
 
