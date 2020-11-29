@@ -10,10 +10,6 @@ volunteers to the attendees. Given that I figure other people would want the sam
 fun but don't know where to start. I aim to share the knowledge here so like all open source projects
 people take ideas and be empowered to run with them.
  
-## Intended Takeaway
-Everyone should know that they can plan a conference of their own, big or 
-small. This book will an example and a guide of how you can run a conference for your community.
-
 ## Please pardon the dust
 This book with be developed in an "Open Source Software" fashion, where chapters are shared as they're
 written. This is get the ideas out there, and improve on the over time, particularly
