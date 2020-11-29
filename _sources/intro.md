@@ -5,6 +5,14 @@ Welcome to the Conference Planning playbook. This book will share how structure,
 for how plan conferences for folks to share ideas and inspiration, earn revenue for your 
 community, and generally just bring people together.
 
+I've just come off planning PyMCon and it seems like the community really had fun overall, from the
+volunteers to the attendees. Given that I figure other people would want the same community building
+fun but don't know where to start. I aim to share the knowledge here so like all open source projects
+people take ideas and be empowered to run with them.
+ 
+## Intended Takeaway
+Everyone should know that they can plan a conference of their own, big or 
+small. This book will an example and a guide of how you can run a conference for your community.
 
 ## Please pardon the dust
 I'm writing this book in an "Open Source Software" fashion, where I write a prototype quickly
