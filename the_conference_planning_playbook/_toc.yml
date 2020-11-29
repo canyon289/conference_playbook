@@ -7,11 +7,20 @@
   - file: 01_preface/why
   - file: 01_preface/bookstructure
   - file: 01_preface/author
+  - file: 01_preface/outline
 
 - part: The Basics
   chapters:
     - file: 02_basics/definitions
     - file: 02_basics/open_community_gatherings
+
+- part: The Playbook
+  chapters:
+  - file: 03_the_playbook/conferenceoverview
+    sections:
+      - file: 03_the_playbook/vision
+      - file: 03_the_playbook/vision
+
 
 - part: The stuff that came with the template
   chapters:

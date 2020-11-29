@@ -26,5 +26,3 @@ many of us as being asked to socially distance, and while this is beneficial for
 is hard mentally. In reading this book I hope folks that are looking to bring people together
 are both inspired to do so, and also find a playbook on how to make it happen, for the benefit
 of all involved.
-
-
