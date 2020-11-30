@@ -28,6 +28,8 @@ We'll break down each step in much more detail in the next sections.
 For PyMCon this architecture conveyed early on in the planning process. We started planning
 in late July, for an early November conference (The actual conference was October 31st). 
 
+![Architecture!](img/HighLevelArchitecture.png "Slides shared with team")
+
 
 ## Exercise
 If you're planning a conference think about past just the conference itself. What will you need
