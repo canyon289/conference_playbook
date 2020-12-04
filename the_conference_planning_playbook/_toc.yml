@@ -19,7 +19,6 @@
   - file: 03_the_playbook/conferenceoverview
     sections:
       - file: 03_the_playbook/vision
-      - file: 03_the_playbook/vision
 
 
 - part: The stuff that came with the template
