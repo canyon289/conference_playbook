@@ -51,4 +51,4 @@ the colors now
 
 ## Post Conference
 * Things to do after your successful conference to close both this one and set the stage for
-the hext one
+the next one
