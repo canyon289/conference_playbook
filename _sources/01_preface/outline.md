@@ -13,7 +13,7 @@ get this outline to see whats to come!
 * Types of volunteers you should expect
 * This is first place where you engage community
 
-## Setting foundation
+## Laying the groundwork
 * Identify the big ticket items
     * Things with cost or deadline
     * Dont sweat the details 
