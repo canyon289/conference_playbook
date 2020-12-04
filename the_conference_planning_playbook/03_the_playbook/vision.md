@@ -1,7 +1,7 @@
-# Setting the Creating a conference vision and mission
+# Vision and Mission
 
 ## Getting a band together 
-This is where the commumnity starts
+This is where the community starts
 
 ## Types
 Really Dedicated people

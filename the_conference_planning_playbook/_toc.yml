@@ -8,6 +8,7 @@
   - file: 01_preface/bookstructure
   - file: 01_preface/author
   - file: 01_preface/outline
+  - file: 01_preface/contributing
 
 - part: The Basics
   chapters:
