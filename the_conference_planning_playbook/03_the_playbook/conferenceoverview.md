@@ -1,4 +1,4 @@
-# Conference Overview 
+# Overview 
 A playbook does little good if we don't understand the high level principles of the game. Before
 diving into the details lets talk about a conference at a high level.
 

@@ -5,8 +5,9 @@
 - part: Preface
   chapters:
   - file: 01_preface/why
-  - file: 01_preface/bookstructure
-  - file: 01_preface/author
+    sections:
+      - file: 01_preface/bookstructure
+      - file: 01_preface/author
   - file: 01_preface/outline
   - file: 01_preface/contributing
 
@@ -18,8 +19,8 @@
 - part: The Playbook
   chapters:
   - file: 03_the_playbook/conferenceoverview
-    sections:
-      - file: 03_the_playbook/vision
+  - file: 03_the_playbook/vision
+#    sections:
 
 
 - part: The stuff that came with the template

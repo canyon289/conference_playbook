@@ -1,4 +1,4 @@
-# Definitions
+# Our Focus
 
 Merriam Webster defines a conference as "a meeting of two or more persons for discussing matters of
 common concern". It's hard to argue with this definition but it is pretty vague, getting
@@ -35,7 +35,7 @@ comes from the individuals. Even though the end product is code, the process in 
 looks vastly different. And importantly the ways the humans in the process structure themselves
 and interact is different as well.
 
-At at high level companies and open source use the same technologies, tools, and acronyms. You'll
+At a high level companies and open source use the same technologies, tools, and acronyms. You'll
 find python, Continuous integration, testing, milling machines, lathes, and source code decompilers
 in both. But the way the humans organize and the motivation lead to different expectations,
 schedules, and motivations.
