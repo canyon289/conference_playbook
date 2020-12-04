@@ -30,23 +30,21 @@ get this outline to see whats to come!
 * Volunteer
 * Marketing
 
-# Reaching out to contributors
+## Reaching out to contributors
 * Call for Papers
 * Vendors
 * Community partners
 * Sponsors
 
-# Engaging attendees 
-Should have a good handle on what the schedule will look like
-who's sponsoring, who's helping
-
-Start announcing conference, ideally want at least 6 weeks of lead time
+## Engaging attendees 
+* Should have a good handle on what the schedule will look like who's sponsoring, who's helping
+before starting this step
+* Start announcing conference, ideally want at least 6 weeks of lead time
 
 ## Conference Leadup
-Things are now moving to daily. Actions should be cranking out.
-All the big pieces should be done, its all about filling in
+* Things are now moving to daily. Actions should be cranking out.
+* All the big pieces should be done, its all about filling in
 the colors now
-
 ## Day of execution
 * Day of tips that will help
 * Things that can go wrong and how to deal with them
