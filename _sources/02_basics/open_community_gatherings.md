@@ -1,4 +1,4 @@
-# An Overview of Open Community Gatherings
+# Open Community Gatherings
 Now that we've scoped down what type of community we're focusing on,
 we're still left with a vague definition of conferences,
 so to provide some context I'll enumerate the typical gatherings that open communities have
