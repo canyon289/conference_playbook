@@ -1,7 +1,10 @@
 Conference Planning Playbook
 ============================
 
-![Architecture!](img/CoverPage.png "Slides shared with team")
+![1A](img/ConferencePlanningHandbook_Option_1A.jpg)
+![1B](img/ConferencePlanningHandbook_Option_1B.jpg)
+![2A](img/ConferencePlanningHandbook_Option_2A.jpg)
+![2B](img/ConferencePlanningHandbook_Option_2B.jpg)
 
 Welcome to the Conference Planning playbook. This book will share how structure, documents, and tips
 for how plan conferences for folks to share ideas and inspiration, earn revenue for your 
